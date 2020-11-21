@@ -1,0 +1,2 @@
+# CounterProjectDay12
+finishedVersion
